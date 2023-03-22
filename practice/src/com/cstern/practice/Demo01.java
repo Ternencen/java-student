@@ -10,6 +10,7 @@ public class Demo01 {
         System.out.println("圆的面积为：" + areaOfCircle(2));
         int a = 1;
         System.out.println(a++);
+        System.out.println("hahahahah");
     }
     public static double areaOfCircle(double radius) {
         return Math.PI * radius * radius;
