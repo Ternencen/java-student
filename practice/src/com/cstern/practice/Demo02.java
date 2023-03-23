@@ -12,7 +12,7 @@ public class Demo02 {
         outputArray(arr);
         System.out.println(arr.length);
         // 动态初始化
-        int[] arr01 = {6,7,8,9,10};
+        int[] arr01 = {6, 7, 8, 9, 10};
 
         // 将arr地址值给arr01
         arr01 = arr;
@@ -35,6 +35,4 @@ public class Demo02 {
             System.out.println(a[i]);
         }
     }
-
-
 }
