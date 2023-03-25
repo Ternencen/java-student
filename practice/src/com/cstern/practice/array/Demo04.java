@@ -1,4 +1,4 @@
-package com.cstern.practice;
+package com.cstern.practice.array;
 
 import java.util.Arrays;
 

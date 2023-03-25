@@ -1,4 +1,4 @@
-package com.cstern.practice;
+package com.cstern.practice.array;
 
 /*
 数组静态初始化与动态初始化
