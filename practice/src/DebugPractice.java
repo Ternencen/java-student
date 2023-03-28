@@ -1,5 +1,3 @@
-package com.cstern.practice;
-
 import java.util.Scanner;
 
 /*

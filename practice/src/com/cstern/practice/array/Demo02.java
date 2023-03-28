@@ -31,8 +31,11 @@ public class Demo02 {
     }
 
     public static void outputArray(int[] a) {
-        for (int i = 0; i < a.length; i++) {
-            System.out.println(a[i]);
+//        for (int i = 0; i < a.length; i++) {
+//            System.out.println(a[i]);
+//        }
+        for (int i : a) {
+            System.out.print(i + ",");
         }
     }
 }
